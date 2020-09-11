@@ -15,7 +15,7 @@ public class Config {
     /**
      * Whether to use "Virtual Gamepad" (true -> Virtual gamepad, false -> Real gamepad)
      */
-    public static final boolean USE_VIRTUAL_GAMEPAD = false;
+    public static final boolean USE_VIRTUAL_GAMEPAD = true;
 
     /**
      * The image object for the field.
@@ -29,5 +29,5 @@ public class Config {
      * But if the SHIFT or ALT key is down when the control is released, the behavior will be the opposite of the
      * default behavior.
      */
-    public static final boolean HOLD_CONTROLS_BY_DEFAULT = true;
+    public static final boolean HOLD_CONTROLS_BY_DEFAULT = false;
 }
