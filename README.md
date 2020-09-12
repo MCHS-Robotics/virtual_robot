@@ -1,12 +1,7 @@
-**Notice:** This repository is a clone of https://github.com/Beta8397/virtual_robot for the 2020-2021 FTC season
+**Note:** This repository is a clone of https://github.com/Beta8397/virtual_robot for the 2020-2021 FTC season
 
 # A 2D simulator to help beginning Java programmers learn to program for FTC Robotics.
 
-    New: Programming Board configuration to serve as a companion to the book "Learn Java For FTC", by Alan Smith.
-    
-The PDF can be [downloaded for free](https://github.com/alan412/LearnJavaForFTC) or you can purchase the paperback on 
-[Amazon](https://www.amazon.com/dp/B08DBVKXLZ).
-    
 ![](/readme_image.JPG)
 
 This is a JavaFX application developed using the (free) IntelliJ IDEA Community Edition IDE. The repository can be downloaded
@@ -62,9 +57,9 @@ An approximation of the FTC SDK's ElapsedTime class is provided in the time pack
 
 Several example OpModes are provided in the org.firstinspires.ftc.teamcode package.
 
-Some recent changes have simplified the process of creating new robot configurations (see  Log of Changes below).
+Some recent changes have simplified the process of creating new robot configurations (see Log of Changes below).
 
-To use:
+## To use:
 
   1. Make sure you have the Java 8 JDK installed on your PC. Also, install the free Community Edition of JetBrains
      IntelliJ IDEA.
@@ -85,7 +80,7 @@ To use:
   11. If desired use the sliders to introduce random and systematic motor error, and inertia.
 
 
-LOG OF CHANGES
+## Log of Changes
 
 CHANGES 8/29/2020
     Added the ability to have the "virtual gamepad" triggers and joysticks "snap back" to zero when released. By
