@@ -1,3 +1,5 @@
+**Notice:** This repository is a clone of https://github.com/Beta8397/virtual_robot for the 2020-2021 FTC season
+
 # A 2D simulator to help beginning Java programmers learn to program for FTC Robotics.
 
     New: Programming Board configuration to serve as a companion to the book "Learn Java For FTC", by Alan Smith.
